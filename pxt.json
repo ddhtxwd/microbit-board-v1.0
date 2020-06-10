@@ -1,0 +1,20 @@
+{
+    "name": "board",
+    "version": "0.0.0",
+    "description": "microbit board by XMU",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "custom.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "license": "MIT",
+    "preferredEditor": "tsprj"
+}
